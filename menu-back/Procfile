@@ -1,0 +1,5 @@
+# Railway usará el script "start" del package.json automáticamente
+# Este archivo es opcional pero útil para referencia
+
+# Start command
+start: node src/index.js
